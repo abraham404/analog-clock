@@ -13,8 +13,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
+h1 {
+    color: white;
+    padding-bottom: 10px;
+}
 
 .analog-clock{
     background: #2d2f41;
